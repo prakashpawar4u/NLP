@@ -1,6 +1,6 @@
 # NLP Basics:
 
-feature engineering: The process of creating new features and/or transforming existing features to get the most out of your data
+<!-- feature engineering: The process of creating new features and/or transforming existing features to get the most out of your data
 
 lemmatizing: The process of grouping together the inflected forms of a word so they can be analyzed as a single term
 
@@ -18,4 +18,4 @@ stop words: Commonly used words like “but,” “if,” “the,” etc.
 
 tokenizing: The process of splitting some string or sentence into a list of words
 
-vectorizing: The process of encoding text as integers to create feature vectors
+vectorizing: The process of encoding text as integers to create feature vectors -->
